@@ -2,16 +2,16 @@
   <img src=".imgs/logo.png">
 </p>
 
-<p align="center">*** Cloudfare Installation 100% Working ***</p>
+<p align="center">*** Cloudflare Installation 100% Working ***</p>
 
 
 ### Installation
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/VirajLR/cloudfare.git 
+$ git clone https://github.com/VirajLR/cloudflare.git 
 ```
-$ cd cloudfare 
+$ cd cloudflare 
 ```
 $ bash setup.sh
 ```
