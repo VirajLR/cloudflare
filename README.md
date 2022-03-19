@@ -12,5 +12,6 @@
 $ git clone https://github.com/VirajLR/cloudfare.git 
 ```
 $ cd cloudfare 
+```
 $ bash setup.sh
 ```
