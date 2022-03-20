@@ -5,7 +5,7 @@ echo "--upgrading packages"
 yes "" | pkg update
 
 echo "-- installing dependancies: golang git debianutils make"
-yes "" | pkg install golang git debianutils make
+yes "" | pkg install openssh golang git debianutils make
 
 echo "-- downloading cloudflared source"
 git clone https://github.com/cloudflare/cloudflared.git --depth=1
