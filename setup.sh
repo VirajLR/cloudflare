@@ -1,2 +1,2 @@
-chmod +x install.sh
-bash install.sh
+#!/bin/bash
+chmod +x install.sh && ./install.sh
