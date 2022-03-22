@@ -14,7 +14,7 @@ $ git clone https://github.com/VirajLR/cloudflare.git
 
  
 ```
-cd cloudflare
+cd cloudflare && bash setup.sh
 
-bash setup.sh
+
 ```
